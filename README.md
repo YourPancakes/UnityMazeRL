@@ -36,3 +36,4 @@ A Unity-based procedural maze environment designed for reinforcement learning re
 
 * Enable **Heuristic Only** in the `BehaviorParameters` on `MazeAgent` prefab.
 * Run scene and record under `Assets/ML-Agents/Demonstrations`.
+* In MazeEnvironment, enable the recording checkbox.
